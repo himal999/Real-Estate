@@ -1,4 +1,4 @@
-import react from 'react'
+import react from 'react';
 import {AiOutlineSearch} from 'react-icons/ai';
 import './Hero.css';
 const Hero = ()=>{
