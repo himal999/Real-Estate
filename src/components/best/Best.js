@@ -10,9 +10,9 @@ const Best = ()=>{
             <h1>Find Best Rated Propertits</h1>
             <div>
                 <p><span className="bold">All</span></p>
-                <p><span className="bold">Commercial</span></p>
-                <p><span className="bold">Residential</span></p>
-                <p><span className="bold">Agricultural</span></p>
+                <p><span className="">Commercial</span></p>
+                <p><span className="">Residential</span></p>
+                <p><span className="">Agricultural</span></p>
             </div>
             <div className="container">
                 <img src={Apt1}/>
