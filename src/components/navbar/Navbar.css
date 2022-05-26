@@ -52,6 +52,7 @@
         transition: 0.4s ease-in-out;
         z-index: 10;
     }
+   
     .navbar .active{
         right: 0;
     }
